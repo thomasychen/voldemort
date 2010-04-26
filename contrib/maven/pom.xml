@@ -122,14 +122,14 @@
         <dependency>
             <groupId>voldermort</groupId>
             <artifactId>voldermort</artifactId>
-            <version>0.81</version>
+            <version>0.80.1</version>
             <scope>system</scope>
             <systemPath>${basedir}/../../dist/voldemort-0.80.1.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>voldermort</groupId>
             <artifactId>voldermort-test</artifactId>
-            <version>0.81</version>
+            <version>0.80.1</version>
             <scope>system</scope>
             <systemPath>${basedir}/../../dist/voldemort-test-0.80.1.jar</systemPath>
         </dependency>
